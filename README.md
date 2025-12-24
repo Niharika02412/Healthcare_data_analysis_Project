@@ -7,8 +7,23 @@ This project analyzes Healthcare patient encounter data analysis using SQL and P
 ## Tools Used
 - MS SQL Server
 - Power BI
-
+- CSV Datasets
+  
 ## Key Analysis
-- High-cost patient identification
-- Financial risk by encounter outcome
-- Payer gap analysis
+- Evaluation of financial risk by encounter outcome  
+- Identification of high-cost patients with repeated encounters  
+- Analysis of total cost contribution by patient  
+- Cost comparison across encounter types and payers  
+- Trend analysis of healthcare expenses
+
+## 📈 Power BI Dashboards
+- High-Cost Patient Identification Dashboard  
+- Encounter Cost & Risk Analysis  
+- Payer-wise Cost Distribution  
+- Cost Trends & KPIs
+
+## 🎯 Business Impact
+- Helps identify patients driving maximum healthcare costs  
+- Supports data-driven financial risk management  
+- Improves visibility into cost-heavy encounter types  
+- Assists decision-makers in optimizing healthcare spending    
